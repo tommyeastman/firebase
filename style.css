@@ -1,0 +1,32 @@
+html {
+    font-family: 'Anonymous Pro', monospace;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+button {
+    background: #1f8dd6;
+    color: white;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+button :disabled {
+    background: #4F5D63;
+    color: white;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+input {
+    display: inline;
+    border: 2px solid #ddd;
+    box-shadow: none;
+    margin-bottom: 1em;
+}
+
+.bodyDiv {
+    margin-top: 120px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
